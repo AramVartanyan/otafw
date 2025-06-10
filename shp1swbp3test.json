@@ -1,3 +1,4 @@
-{"firmware_url": "https://raw.githubusercontent.com/AramVartanyan/otafw/master/shp1swbp3.bin",
-    "hash_sha256": "1249f6274c8ccb284bc82d9249d8ed8238a2e503c2dae1da7048b749ca4cd3cd",
-"signature": "304502204601dc894c12a49111ad6e42e326744c55d63414df5a9d5112e990b8e487edcd022100a06737ea955d39b825e7d03307d8b519ccbdbb94c876f3963ab77f4f93b059d6"}
+{"firmware_url": "https://raw.githubusercontent.com/AramVartanyan/otafw/master/shp1swbp3.bin", "hash_sha256": "1249f6274c8ccb284bc82d9249d8ed8238a2e503c2dae1da7048b749ca4c
+d3cd", "signature": "304402206aa8112d625147365bc241e3471cfe3863fc43d4331a0436f7d8
+ca6f6ee56d17022039d10d9ffcee2b59eefc0825eb05ddab1826d0f854f6
+cde17d1fc1a6ee40495a"}
